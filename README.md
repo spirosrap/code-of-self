@@ -5,3 +5,5 @@
 - ⚔️ **Strike bold** — but know when to fold  
 - 🌊 **No drowning** — rise, even if crawling  
 - 😏 **Laugh loud** — critics don’t get a vote  
+
+> _“Built with grit. Run on clarity. Refined under pressure.”_
